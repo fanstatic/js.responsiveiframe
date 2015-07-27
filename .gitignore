@@ -1,0 +1,8 @@
+syntax: glob
+
+.installed.cfg
+bin/
+bootstrap.py
+buildout.cfg
+develop-eggs/
+js.*/
