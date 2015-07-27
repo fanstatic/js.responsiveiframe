@@ -6,3 +6,4 @@ bootstrap.py
 buildout.cfg
 develop-eggs/
 js.*/
+*.pyc
